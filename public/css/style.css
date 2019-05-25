@@ -1,0 +1,162 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 28-abril-2019, 11:51:47
+    Author     : joseca
+*/
+/*---------------- here ------------------*/
+/*---------------- general ------------------*/
+/*---------------- colores ------------------
+#2E5180; azul oscuro
+#A8CEFF; azul claro
+#42F7FF
+
+#5CA3FF; azul semi
+
+#546780; gris
+#657C99;
+
+#7B72CC; violeta
+
+#FFA182; naranja super claro
+
+
+*/
+
+header,footer{
+    font-family: 'Staatliches', cursive;
+    background-color: #2E5180;
+    margin:auto;
+    margin-top: 15px;
+}
+header{
+    padding: 15px;
+    margin:0px;
+
+}
+header h1{
+    display: inline-block;
+
+}
+h1{
+    margin: 25px;
+    font-family: 'Cinzel Decorative', cursive;
+}
+
+footer{
+    font-weight: normal;
+}
+a{
+    color:whitesmoke;
+    text-decoration: none;
+    font-family: 'Dancing Script', cursive;
+    font-size: 1.5em;
+    font-style: italic;
+    font-weight:  lighter;
+}
+a:hover{
+    color: #A8CEFF;
+}
+
+.btn{
+    margin-top: 10px;
+    background-color: #A8CEFF;
+}
+
+input{
+    font-family: 'Staatliches', cursive;
+
+}
+
+label,p {
+    font-family: 'Handlee', cursive;
+}
+
+.mensaje{ 
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+.mensaje_centrar{
+    margin-top: 4em;
+    font-size: 3em;
+    font-family: 'Cinzel Decorative', cursive;
+}
+
+input[type=number]::-webkit-inner-spin-button, 
+input[type=number]::-webkit-outer-spin-button { 
+    -webkit-appearance: none; 
+    margin: 0; 
+}
+
+input[type=number] { -moz-appearance:textfield; }
+
+textarea {
+    height: 100px;
+    width: 100px;
+
+}
+
+.mitextarea {
+    margin-left: 2px;
+
+}
+
+fieldset{
+    display: block;
+    margin-left: 2px;
+    margin-right: 2px;
+    padding-top: 0.35em;
+    padding-bottom: 0.625em;
+    padding-left: 0.75em;
+    padding-right: 0.75em;
+    border: 1px groove ;
+    border-color: #546780;
+}
+
+legend{
+    margin: 0;
+    padding: 0;
+    width: inherit;
+    border: 0px transparent; 
+}
+
+.form-control-plaintext{
+    padding-top: 0;
+    text-align: left;
+    width: inherit;
+    padding-bottom: .575rem;
+}
+
+.bloques_anuncios{
+    margin-bottom: 10px;
+}
+
+.btn{
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.boton_eliminar{
+    margin-bottom: 0;
+    margin-top: 0;
+}
+
+.img_carru{
+    margin-left: 80px;
+}
+
+input[type="file"], input{
+    display: inline;
+    margin:0;
+    padding:0;
+}
+
+.carousel-inner > .item > a > img, .carousel-inner > .item > img, .img-responsive, .thumbnail a > img, .thumbnail > img{
+    height: 200px;
+    width: 250px;
+}
+

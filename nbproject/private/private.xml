@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/var/www/html/laravel/encuentrapisos/resources/views/principales/buscador_anuncios.blade.php</file>
+            <file>file:/var/www/html/laravel/encuentrapisos/app/Http/Controllers/miControlador.php</file>
+            <file>file:/var/www/html/laravel/encuentrapisos/resources/views/logueado/mis_anuncios.blade.php</file>
+            <file>file:/var/www/html/laravel/encuentrapisos/resources/views/logueado/buscador_anuncios.blade.php</file>
+            <file>file:/var/www/html/laravel/encuentrapisos/public/css/style.css</file>
+            <file>file:/var/www/html/laravel/encuentrapisos/resources/views/principales/login.blade.php</file>
+            <file>file:/var/www/html/laravel/encuentrapisos/public/index.php</file>
+            <file>file:/var/www/html/laravel/encuentrapisos/resources/views/logueado/publicar_anuncios.blade.php</file>
+            <file>file:/var/www/html/laravel/encuentrapisos/routes/web.php</file>
+            <file>file:/var/www/html/laravel/encuentrapisos/resources/views/maestra.blade.php</file>
+            <file>file:/var/www/html/laravel/encuentrapisos/vendor/laravel/framework/src/Illuminate/Routing/Router.php</file>
+        </group>
+    </open-files>
+</project-private>
